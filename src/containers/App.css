@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Lato Black";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Lato Black"), url("Lato-Black.woff") format("woff");
+}
+
+h1 {
+  font-family: "Lato Black";
+  font-weight: 200;
+  color: #0ccac4;
+}
